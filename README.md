@@ -43,7 +43,7 @@ Output is written to the file mortgage.csv.
 
 ## Acknowledgments
 
-This program was made with help from [ChatGPT](https://openai.com/research/chatgpt), an AI developed by OpenAI. You can view the conversation that led to the creation of this program [here](https://chat.openai.com/share/5715a8a6-5df4-488e-892a-0e1ee97ca495).
+This program was made with help from [ChatGPT](https://openai.com/research/chatgpt), an AI developed by OpenAI. You can view the conversation that led to the creation of this program [here](https://chat.openai.com/share/59e5a3e3-8cda-4018-aa4c-b7afa6f5bf60).
 
 ## License
 
